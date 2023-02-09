@@ -155,11 +155,7 @@ Para el desarrollo del módulo de gestión de productos solicitado se han levant
 
 Ejemplo: 
 
-  
-
-  - Imagen: (Link) 
-
-  
+  - GS1: 
 
 La clasificación GS1 es un estándar que garantiza que cualquier producto sea clasificado con máximo 5 niveles, sin embargo, no todas las organizaciones siguen dicho estándar, algunos han diseñado su propia clasificación, es por esto que se requiere que la construcción de esta jerarquía sea parametrizada por el usuario. 
 
